@@ -1,0 +1,14 @@
+J:\local-inv 2.0\aplastaos los colores\aplastaos los colores\bin\Debug\aplastaos los colores.exe.config
+J:\local-inv 2.0\aplastaos los colores\aplastaos los colores\bin\Debug\aplastaos los colores.exe
+J:\local-inv 2.0\aplastaos los colores\aplastaos los colores\bin\Debug\aplastaos los colores.pdb
+J:\local-inv 2.0\aplastaos los colores\aplastaos los colores\obj\Debug\aplastaos los colores.csprojAssemblyReference.cache
+J:\local-inv 2.0\aplastaos los colores\aplastaos los colores\obj\Debug\aplastaos_los_colores.iniciofrm.resources
+J:\local-inv 2.0\aplastaos los colores\aplastaos los colores\obj\Debug\aplastaos_los_colores.inventario_vendidofrm.resources
+J:\local-inv 2.0\aplastaos los colores\aplastaos los colores\obj\Debug\aplastaos_los_colores.Properties.Resources.resources
+J:\local-inv 2.0\aplastaos los colores\aplastaos los colores\obj\Debug\aplastaos los colores.csproj.GenerateResource.cache
+J:\local-inv 2.0\aplastaos los colores\aplastaos los colores\obj\Debug\aplastaos los colores.csproj.CoreCompileInputs.cache
+J:\local-inv 2.0\aplastaos los colores\aplastaos los colores\obj\Debug\aplastaos los colores.exe
+J:\local-inv 2.0\aplastaos los colores\aplastaos los colores\obj\Debug\aplastaos los colores.pdb
+J:\local-inv 2.0\aplastaos los colores\aplastaos los colores\obj\Debug\aplastaos_los_colores.topesfrm.resources
+J:\local-inv 2.0\aplastaos los colores\aplastaos los colores\obj\Debug\aplastaos_los_colores.calculoinventariofrm.resources
+J:\local-inv 2.0\aplastaos los colores\aplastaos los colores\obj\Debug\aplastaos_los_colores.stockfrm.resources
