@@ -1,5 +1,5 @@
 # Tesis
-Proyecto de tesis subido, la tesis constaba de predecir un modelo a futuro de ventas, por ahora el programa hace la distincion de bebidas mediante cloustering y un arbol de decision.
+Proyecto de tesis subido, la tesis constaba de predecir un modelo a futuro de ventas, por ahora el programa hace la distincion de bebidas mediante cloustering y un arbol de decision partiendo de las variables otorgadas por la base de datos.
 
 En el archivo de cloustering+arbol se encuentra toda la implementacion realizada, tener en cuenta que para poder ejecutar este archivo se debe ejecutar previamente el archivo de la creacion del dataframe ya que en este se unen las bases de datos de vinos blancos y vinos rojos.
 
